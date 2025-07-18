@@ -5,17 +5,17 @@ Este projeto tem fins educativos e demonstra como integrar estrutura, estilo e l
 
 ---
  
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- 📥 Entrada de peso e altura
-- 🧮 Cálculo automático do IMC
-- 🧾 Classificação (Abaixo do peso, Normal, Sobrepeso, Obesidade)
-- 🎨 Estilo moderno e responsivo
-- 🎯 Validação de campos com feedback visual
+- Entrada de peso e altura
+- Cálculo automático do IMC
+- Classificação (Abaixo do peso, Normal, Sobrepeso, Obesidade)
+- Estilo moderno e responsivo
+- Validação de campos com feedback visual
 
 ---
 
-## 📁 Tecnologias utilizadas
+## Linguagens utilizadas
 
 - `HTML5` – estrutura do conteúdo
 - `CSS3` – estilo e layout responsivo
@@ -23,7 +23,7 @@ Este projeto tem fins educativos e demonstra como integrar estrutura, estilo e l
 
 ---
 
-## 🖥️ Como executar o projeto
+## Como executar o projeto
 
 1. Clone o repositório:
    ```bash
@@ -34,7 +34,7 @@ Este projeto tem fins educativos e demonstra como integrar estrutura, estilo e l
 3. Insira valores e visualize seu IMC
 
 
-## 📘 Autor
+## Autor
 Matheus Fernandes Ribeiro
 Estudante de Engenharia da Computação – UNIARA
 🔗 LinkedIn
