@@ -1,0 +1,7 @@
+# Arquivos que não vão pro GitHub
+*.exe
+*.layout
+*.dev
+*.log
+.DS_Store
+node_modules/
