@@ -4,13 +4,7 @@ Calculadora de IMC (Índice de Massa Corporal) desenvolvida com HTML, CSS e Java
 Este projeto tem fins educativos e demonstra como integrar estrutura, estilo e lógica de forma clara e responsiva.
 
 ---
-
-## 📸 Demonstração
-
-![Imagem da calculadora](img>screenshot.png)
-
----
-git 
+ 
 ## 🚀 Funcionalidades
 
 - 📥 Entrada de peso e altura
