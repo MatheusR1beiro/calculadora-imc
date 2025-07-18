@@ -35,6 +35,6 @@ Este projeto tem fins educativos e demonstra como integrar estrutura, estilo e l
 
 
 ## Autor
-Matheus Fernandes Ribeiro
-Estudante de Engenharia da Computação – UNIARA
-🔗 LinkedIn
+- Matheus Fernandes Ribeiro
+- Estudante de Engenharia da Computação – UNIARA
+- ![LinkedIn](https://www.linkedin.com/in/matheus-fernandes-ribeiro/)git 
