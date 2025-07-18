@@ -7,10 +7,10 @@ Este projeto tem fins educativos e demonstra como integrar estrutura, estilo e l
 
 ## 📸 Demonstração
 
-![Imagem da calculadora](screenshot.png)
+![Imagem da calculadora](img>screenshot.png)
 
 ---
-
+git 
 ## 🚀 Funcionalidades
 
 - 📥 Entrada de peso e altura
